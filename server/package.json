@@ -1,0 +1,26 @@
+{
+  "name": "campaign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "9.3.0",
+    "npm": "5.6.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodesperYu/campaign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodesperYu/campaign/issues"
+  },
+  "homepage": "https://github.com/CodesperYu/campaign#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
